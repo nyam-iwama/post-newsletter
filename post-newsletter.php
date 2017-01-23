@@ -19,7 +19,7 @@ Description:
 ② ①中に含まれる連番(①へのショートコード挿入で連番と日付を表示することができます。)
 ③ 投稿に付随するカテゴリーの選択
 ④ 投稿日時の設定
-Version: 0.01
+Version: 0.9.0
 Author: Nyam
 Author URI: http://www.nyam.co.jp/
 License: MIT
