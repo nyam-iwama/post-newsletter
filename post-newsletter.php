@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Post Newsletter Plugin
-Plugin URI: http://pc-iwama-dev/wordpress_20161221/wp-content/plugins/post-newsletter/post-newsletter.php
+Plugin URI: https://github.com/nyam-iwama/post-newsletter
 Description:
 「会報投稿プラグイン」
 このプラグインでは、連番をもつ投稿の設定を
@@ -21,7 +21,7 @@ Description:
 ④ 投稿日時の設定
 Version: 0.01
 Author: Nyam
-Author URI: http://pc-iwama-dev/wordpress_20161221/wp-content/plugins/post-newsletter/post-newsletter.php
+Author URI: http://www.nyam.co.jp/
 License: MIT
 */
 
