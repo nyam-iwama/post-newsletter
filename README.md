@@ -3,7 +3,7 @@ Contributors: iwama123
 Donate link: https://github.com/nyam-iwama/post-newsletter  
 Requires at least: 4.7.1  
 Tested up to: 4.7.1  
-Stable tag: 0.9  
+Stable tag: 0.9.0  
 License: MIT  
 License URI:  
 
