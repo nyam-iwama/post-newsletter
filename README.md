@@ -1,4 +1,4 @@
-=== Post Newsletter ===
+=== Post Newsletter ===  
 Contributors: iwama123  
 Donate link: https://github.com/nyam-iwama/post-newsletter  
 Requires at least: 0.9  
