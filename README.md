@@ -1,9 +1,9 @@
 === Post Newsletter ===
-Contributors: iwama123
-Donate link: https://github.com/nyam-iwama/post-newsletter
-Requires at least: 0.9
-Tested up to: 2017/01/23
-License: MIT
+Contributors: iwama123  
+Donate link: https://github.com/nyam-iwama/post-newsletter  
+Requires at least: 0.9  
+Tested up to: 2017/01/23  
+License: MIT  
 
 このプラグインでは、連番をもつ投稿の設定を
 テンプレート化することでWordPress記事作成の
